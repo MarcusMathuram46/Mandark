@@ -170,7 +170,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px auto;
-    text-align: left;
+    text-align: center;
 }
 
 .statistics h3 {
@@ -182,6 +182,7 @@ body {
 .statistics-content {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
 }
